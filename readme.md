@@ -20,7 +20,7 @@
 
 [点击获取详情(持续更新中……)](https://blog.csdn.net/Simple_Yangger/article/details/91351266)
 
-#### Stat的库
+#### Star的库
 
 * [interviews：软件工程技术面试个人指南](https://github.com/imyanger/interviews/blob/master/README-zh-cn.md)
 
