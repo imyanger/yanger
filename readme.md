@@ -43,3 +43,5 @@
 * [incubator-shardingsphere：分布式数据库中间件](https://github.com/apache/incubator-shardingsphere)
 
 * [FEBS-Vue：Shiro前后端分离权限管理系统](https://github.com/wuyouzhuguli/FEBS-Vue)
+
+* [SpringBoot商城项目]（https://github.com/macrozheng/mall）
