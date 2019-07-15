@@ -22,6 +22,8 @@
 
 #### Star的库
 
+* [free-programming-books-zh_CN:免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
+
 * [interviews：软件工程技术面试个人指南](https://github.com/imyanger/interviews/blob/master/README-zh-cn.md)
 
 * [advanced-java：互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
