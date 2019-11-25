@@ -18,9 +18,9 @@
 * [incubator-shardingsphere：分布式数据库中间件](https://github.com/apache/incubator-shardingsphere)
 * [FEBS-Vue：Shiro前后端分离权限管理系统](https://github.com/wuyouzhuguli/FEBS-Vue)
 * [mall：SpringBoot商城项目](https://github.com/macrozheng/mall)
+* [electron-vue-admin：electron-vue桌面端端项目](https://github.com/PanJiaChen/electron-vue-admin)
+* [vue-manage-system：vue-element前端项目](https://github.com/lin-xin/vue-manage-system)
 
 
 #### (⊙o⊙)…
 * [Dress：额……鬼知道为什么会关注](https://github.com/komeiji-satori/Dress)
-* [electron-vue-admin：electron-vue桌面端端项目](https://github.com/PanJiaChen/electron-vue-admin)
-* [vue-manage-system：vue-element前端项目](https://github.com/lin-xin/vue-manage-system)
