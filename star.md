@@ -24,4 +24,4 @@
 
 * [FEBS-Vue：Shiro前后端分离权限管理系统](https://github.com/wuyouzhuguli/FEBS-Vue)
 
-* [SpringBoot商城项目](https://github.com/macrozheng/mall)
+* [mall：SpringBoot商城项目](https://github.com/macrozheng/mall)
